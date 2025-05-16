@@ -8,3 +8,5 @@ https://github.com/user-attachments/assets/6a7afe91-a595-4a63-86f5-65425f355238
 
 This is running on a XT1145 (BOS 9.0.208 with use-brightsign-media-player = '1' and Chromium 87)
 
+Published with BA:Connected 1.59.0
+
